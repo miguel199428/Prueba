@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="      ☆ Caracol HD     ➠" tvg-logo="" group-title="Colombia",      ☆ Caracol HD     ➠
+http://dt1.cdn.tvmp.co:25461/gust/1234/17532
+#EXTINF:-1 tvg-id="Win.Sports+.(Win.Sports.P.HD).co" tvg-name="☆ WinSport + Digital 1080p              ➠" tvg-logo="https://images.tvmp.co/logos/Sports/08-Win-Premium.png" group-title="Colombia",☆ WinSport + Digital 1080p              ➠
+http://dt1.cdn.tvmp.co:25461/gust/1234/22
+#EXTINF:-1 tvg-id="ESPN.HD.(ESPN.HD).pe" tvg-name="☆ ESPN Latinoamérica FHD ☆" tvg-logo="http://images.tvmp.co/logos/Sports/31-espn.png" group-title="Sports-Deportes",☆ ESPN Latinoamérica FHD ☆
+http://dt1.cdn.tvmp.co:25461/gust/1234/1560
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(ESPN2HD).us" tvg-name="▬●ESPN 2 US●▬" tvg-logo="http://images.tvmp.co/logos/Sports/30-espn2.png" group-title="Sports-Deportes",▬●ESPN 2 US●▬
+http://dt1.cdn.tvmp.co:25461/gust/1234/2537
